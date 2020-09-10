@@ -15378,13 +15378,6 @@ textarea[resize="horizontal"] {
   top: 0;
   left: 0;
   z-index: 1030; }
-  .header-transparent .container::after {
-    content: "";
-    position: absolute;
-    right: 0;
-    bottom: -0.75rem;
-    left: 0;
-    border-top: 1px solid rgba(255, 255, 255, 0.2); }
   .header-transparent .navbar-top {
     background-color: transparent !important;
     border: 0;
@@ -17223,13 +17216,6 @@ article p {
   top: 0;
   left: 0;
   z-index: 1030; }
-  .header-transparent .container::after {
-    content: "";
-    position: absolute;
-    right: 0;
-    bottom: -0.75rem;
-    left: 0;
-    border-top: 1px solid rgba(255, 255, 255, 0.2); }
   .header-transparent .navbar-top {
     background-color: transparent !important;
     border: 0;
