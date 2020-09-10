@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Illustration 1</title>
+    <defs>
+        <linearGradient x1="32.1097575%" y1="68.0441818%" x2="68.6403409%" y2="19.2678735%" id="linearGradient-1">
+            <stop stop-color="#058B7E" offset="0%"></stop>
+            <stop stop-color="#058D80" offset="0%"></stop>
+            <stop stop-color="#058D7F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="30.2196657%" y1="28.0694612%" x2="82.1049391%" y2="83.0934065%" id="linearGradient-2">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Illustration-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Board" transform="translate(57.000000, 179.000000)">
+            <rect id="Mask" fill="#F2F4F6" x="0" y="0" width="687.304529" height="441.413353" rx="11.592"></rect>
+            <g id="Group-4" transform="translate(278.000000, 326.000000)">
+                <rect id="Rectangle" fill="#008B7B" fill-rule="nonzero" x="0" y="0" width="130.499997" height="49.4999987" rx="10.7999997"></rect>
+                <text id="Join" font-family="ProductSans-Regular, Product Sans" font-size="26.9999993" font-weight="normal" letter-spacing="1.79999995" fill="#FFFFFF">
+                    <tspan x="36.899999" y="34.0999998">Join</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(165.000000, 117.000000)">
+                <rect id="Rectangle" stroke="#BECAD7" fill="#FFFFFF" x="0.5" y="0.5" width="356" height="168" rx="10"></rect>
+                <g id="Group-2" transform="translate(70.000000, 29.000000)">
+                    <text id="Meet" font-family="ProductSans-Regular, Product Sans" font-size="40" font-weight="normal" letter-spacing="1" fill="#212B36">
+                        <tspan x="123" y="74">Meet</tspan>
+                    </text>
+                    <g id="google-meet-seeklogo.com">
+                        <path d="M51.0800008,0 C22.8800003,0 0,22.3200003 0,49.8400007 C0,77.3600012 22.8800003,99.6800015 51.0800008,99.6800015 L51.2000008,118.440002 C77.4400012,103.520002 102.400002,83.6400012 102.400002,49.8400007 C102.400002,22.3200003 79.2800012,0 51.0800008,0 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        <path d="M51.0800008,0 C22.8800003,0 0,22.3200003 0,49.8400007 C0,77.3600012 22.8800003,99.6800015 51.0800008,99.6800015 L51.2000008,118.440002 C77.4400012,103.520002 102.400002,83.6400012 102.400002,49.8400007 C102.400002,22.3200003 79.2800012,0 51.0800008,0 Z" id="path-2_1_" fill="#000000" fill-rule="nonzero"></path>
+                        <path d="M51.0800008,0 C22.8800003,0 0,22.3200003 0,49.8400007 C0,77.3600012 22.8800003,99.6800015 51.0800008,99.6800015 L51.2000008,118.440002 C77.4400012,103.520002 102.400002,83.6400012 102.400002,49.8400007 C102.400002,22.3200003 79.2800012,0 51.0800008,0 Z" id="path-4_1_" fill="#008B7B" fill-rule="nonzero"></path>
+                        <path d="M82.9600012,32.6800005 L102.399313,50.1472301 C102.274878,77.8904684 85.298705,96.2269 64.6642776,110.148654 L23.3200003,67.440001 L74.0400011,48.0000007 L82.9600012,32.6800005 Z" id="Path" fill-opacity="0.21" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                        <g id="Group" transform="translate(22.000000, 51.200001)">
+                            <path d="M0.240000004,0.0400000006 L0.240000004,13.7200002 C0.240000004,17.3200003 3.20000005,20.2800003 6.8000001,20.2800003 L40.8000006,20.2800003 C44.4000007,20.2800003 47.3600007,17.3200003 47.3600007,13.7200002 L47.3600007,5.08000008 L60.8400009,18.5600003 L60.8400009,0.0400000006 L0.240000004,0.0400000006 L0.240000004,0.0400000006 Z" id="path-9_1_" fill="#000000" fill-rule="nonzero"></path>
+                            <path d="M0.240000004,0.0400000006 L0.240000004,13.7200002 C0.240000004,17.3200003 3.20000005,20.2800003 6.8000001,20.2800003 L40.8000006,20.2800003 C44.4000007,20.2800003 47.3600007,17.3200003 47.3600007,13.7200002 L47.3600007,5.08000008 L60.8400009,18.5600003 L60.8400009,0.0400000006 L0.240000004,0.0400000006 L0.240000004,0.0400000006 Z" id="Path" fill="#F6F6F6"></path>
+                        </g>
+                        <path d="M82.8400012,51.2400008 L82.8400012,32.6800005 L69.360001,46.1200007 L69.360001,37.5600006 C69.360001,33.9600005 66.400001,31.0000005 62.8000009,31.0000005 L28.8000004,31.0000005 C25.2000004,31.0000005 22.2400003,33.9600005 22.2400003,37.5600006 L22.2400003,51.2400008 L82.8400012,51.2400008 L82.8400012,51.2400008 Z" id="Path" fill="#E2E2E2" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+            <path d="M675.712529,-1.5916157e-13 C682.114614,-1.5916157e-13 687.304529,5.18991519 687.304529,11.592 L687.304529,45.7253992 L-0.000845858987,45.7253992 L-0.000845858987,11.592 C-0.000845858987,5.18991519 5.18991519,-1.5916157e-13 11.592,-1.5916157e-13 L675.712529,-1.5916157e-13 Z" id="Path" fill="#909FB5"></path>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.300000012" x="152" y="12" width="384" height="22" rx="11"></rect>
+            <g id="Group" transform="translate(35.000000, 19.000000)" fill="#FFFFFF">
+                <circle id="Oval" cx="4" cy="4" r="4"></circle>
+                <circle id="Oval-Copy" cx="24" cy="4" r="4"></circle>
+                <circle id="Oval-Copy-2" cx="44" cy="4" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
